@@ -1,4 +1,4 @@
-# Hi, I'm Hua Liu 👋
+# Hi, I'm Eric Liu 👋
 
 ## Senior Backend Software Engineer
 
